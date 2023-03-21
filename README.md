@@ -1,8 +1,10 @@
-# Discord-Application-Boa
 # Discord Application Bot
-- 8 Questions
-- Sends Questions to webhook
-- 
+- Easy to run
+- Fast loading
+- No external keys needed [(besides a Discord Bot token)](https://discord.com/developers/applications)
+- Smooth application
+- Clean and beautiful apply's
+
 
 # Support Needed?
 [Discord Server](https://www.discord.gg/invite)
