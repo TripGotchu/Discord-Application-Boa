@@ -5,4 +5,4 @@
 - 
 
 # Support Needed?
-Join My Discord Server[discord.gg/invite]
+[Join my discord server(https://www.discord.gg/invite)]
